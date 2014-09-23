@@ -1,3 +1,3 @@
-var hello = "hello world.";
+var hello = "hello java script world.";
 
 console.log(hello);
